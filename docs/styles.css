@@ -103,7 +103,7 @@ body {
 }
 
 .banner {
-  background: linear-gradient(135deg, rgba(26, 33, 37, 0.9), rgba(32, 42, 46, 0.8)), url("./Assets/bussiness-image.jpg");
+  background: linear-gradient(135deg, rgba(26, 33, 37, 0.9), rgba(32, 42, 46, 0.8)), url("./bussiness-image.jpg");
   background-size: cover;
   background-position: center;
   color: #ffffff;
